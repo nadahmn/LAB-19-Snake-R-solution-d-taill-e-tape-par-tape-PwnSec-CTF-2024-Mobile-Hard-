@@ -46,7 +46,7 @@ Exploiter une désérialisation YAML vulnérable (CVE-2022-1471) pour instancier
 
 
 
-<img width="448" height="34" alt="image" src="https://github.com/user-attachments/assets/73102634-33a9-4e03-b92d-46456411db31" />
+<img width="424" height="35" alt="image" src="https://github.com/user-attachments/assets/3e6f6ca3-84e2-4694-9728-bb8ef9209084" />
 
 
 
